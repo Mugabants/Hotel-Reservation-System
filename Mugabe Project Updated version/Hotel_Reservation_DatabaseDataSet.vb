@@ -1,0 +1,2 @@
+﻿Partial Class Hotel_Reservation_DatabaseDataSet
+End Class
